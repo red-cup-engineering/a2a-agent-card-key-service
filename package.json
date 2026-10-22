@@ -21,5 +21,10 @@
   "dependencies": {
     "@red-cup-engineering/a2a-agent-card-discovery-service": "workspace:*",
     "jose": "6.2.3"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
